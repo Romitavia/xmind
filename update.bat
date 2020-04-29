@@ -6,5 +6,5 @@ git config --global user.name "Romitavia"
 git add .
 git commit -m "XMIND"
 git pull
-git push origin master
+git push -u origin master
 @pause
