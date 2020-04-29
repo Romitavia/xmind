@@ -7,4 +7,3 @@ git add .
 git commit -m "XMIND"
 git pull
 git push -u origin master
-@pause
